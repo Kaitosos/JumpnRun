@@ -107,6 +107,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Draw\Animation.cs" />
     <Compile Include="Map\Block.cs" />
     <Compile Include="Camera\Cam.cs" />
     <Compile Include="Controls\Keyboard.cs" />
