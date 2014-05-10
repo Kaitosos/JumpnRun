@@ -107,10 +107,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controls\MyKeyboard.cs" />
     <Compile Include="Draw\Animation.cs" />
     <Compile Include="Map\Block.cs" />
     <Compile Include="Camera\Cam.cs" />
-    <Compile Include="Controls\Keyboard.cs" />
     <Compile Include="Controls\Input.cs" />
     <Compile Include="Map\Map.cs" />
     <Compile Include="Fighting\RangeAttack.cs" />
