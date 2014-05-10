@@ -67,6 +67,7 @@ namespace JumpnRun
         protected override void Update(GameTime gameTime)
         {
             // Allows the game to exit
+            // Kevin fapt
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
